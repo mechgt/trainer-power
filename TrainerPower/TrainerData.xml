@@ -1,0 +1,1201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrainerPower xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Trainers>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>6.0341</ConstantA>
+      <ConstantB>-1.3882</ConstantB>
+      <ConstantC>0.2543</ConstantC>
+      <ConstantD>0.0388</ConstantD>
+      <Model>6 pockets</Model>
+      <Manufacturer>1Up USA</Manufacturer>
+      <ReferenceId>
+      363549c3-ed59-4642-90e5-d6db5d2030ab</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>10.82</ConstantA>
+      <ConstantB>-2.0392</ConstantB>
+      <ConstantC>0.3586</ConstantC>
+      <ConstantD>0.0097</ConstantD>
+      <Model>Inner pockets</Model>
+      <Manufacturer>1Up USA</Manufacturer>
+      <ReferenceId>
+      04cb538a-9b45-4003-947b-24e0b0455a7c</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>11.61</ConstantA>
+      <ConstantB>-1.8042</ConstantB>
+      <ConstantC>0.364</ConstantC>
+      <ConstantD>0.0103</ConstantD>
+      <Model>Outer pockets</Model>
+      <Manufacturer>1Up USA</Manufacturer>
+      <ReferenceId>
+      71d5f35a-1615-4142-b572-9ce114618ffd</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>1.03</ConstantB>
+      <ConstantC>0.16</ConstantC>
+      <ConstantD>-0.0021</ConstantD>
+      <Model>Basic Mag level 1</Model>
+      <Manufacturer>BlackBurn</Manufacturer>
+      <ReferenceId>
+      eaf22168-e839-44a5-9fba-f35f19cef637</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>1.67</ConstantB>
+      <ConstantC>0.179</ConstantC>
+      <ConstantD>-0.0008</ConstantD>
+      <Model>Basic Mag level 2</Model>
+      <Manufacturer>BlackBurn</Manufacturer>
+      <ReferenceId>
+      9800cdcd-db46-434d-8aea-fd938a3d8261</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>3.78</ConstantB>
+      <ConstantC>0.251</ConstantC>
+      <ConstantD>-0.0029</ConstantD>
+      <Model>Basic Mag level 3</Model>
+      <Manufacturer>BlackBurn</Manufacturer>
+      <ReferenceId>
+      4afca3c7-a961-4b84-b28a-b762a31f1741</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>9.00528</ConstantB>
+      <ConstantC>0</ConstantC>
+      <ConstantD>0.009996</ConstantD>
+      <Model>Fluid</Model>
+      <Manufacturer>BlackBurn</Manufacturer>
+      <ReferenceId>
+      b84ee878-53ff-4083-8bb8-8de901aa2803</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>6.0341</ConstantA>
+      <ConstantB>-1.3882</ConstantB>
+      <ConstantC>0.2543</ConstantC>
+      <ConstantD>0.0388</ConstantD>
+      <Model>Trak Stand Ultra 6 pockets</Model>
+      <Manufacturer>BlackBurn</Manufacturer>
+      <ReferenceId>
+      2883e5c8-9d21-4e05-91f1-b8da4c09f382</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>10.82</ConstantA>
+      <ConstantB>-2.0392</ConstantB>
+      <ConstantC>0.3586</ConstantC>
+      <ConstantD>0.0097</ConstantD>
+      <Model>Trak Stand Ultra inner pockets</Model>
+      <Manufacturer>BlackBurn</Manufacturer>
+      <ReferenceId>
+      c7669316-0a93-48c2-acef-a0ddae81aa3e</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>11.61</ConstantA>
+      <ConstantB>-1.8042</ConstantB>
+      <ConstantC>0.364</ConstantC>
+      <ConstantD>0.0103</ConstantD>
+      <Model>Trak Stand Ultra outer pockets</Model>
+      <Manufacturer>BlackBurn</Manufacturer>
+      <ReferenceId>
+      eaf5ef86-88a1-4121-93fa-ecb32bec9896</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>10.66</ConstantA>
+      <ConstantB>5.478</ConstantB>
+      <ConstantC>0.168</ConstantC>
+      <ConstantD>0.009</ConstantD>
+      <Model>Fluid 2</Model>
+      <Manufacturer>CycleOps</Manufacturer>
+      <ReferenceId>
+      1fbcd87b-8430-4195-b712-797e1ef235e0</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0.255</ConstantA>
+      <ConstantB>19.42</ConstantB>
+      <ConstantC>0</ConstantC>
+      <ConstantD>0</ConstantD>
+      <Model>Mag high</Model>
+      <Manufacturer>CycleOps</Manufacturer>
+      <ReferenceId>
+      5382ee18-2cfe-404e-b9fb-771470556c1d</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.402</ConstantA>
+      <ConstantB>9.125</ConstantB>
+      <ConstantC>0</ConstantC>
+      <ConstantD>0</ConstantD>
+      <Model>Mag low</Model>
+      <Manufacturer>CycleOps</Manufacturer>
+      <ReferenceId>
+      113a03db-91c2-4087-8417-c2d3bd29dd18</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-7.205</ConstantA>
+      <ConstantB>3.1418</ConstantB>
+      <ConstantC>0.6228</ConstantC>
+      <ConstantD>-0.0079</ConstantD>
+      <Model>Magneto</Model>
+      <Manufacturer>CycleOps</Manufacturer>
+      <ReferenceId>
+      caf288c1-1990-4420-8c05-45fec6886516</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>9.533</ConstantA>
+      <ConstantB>3.797</ConstantB>
+      <ConstantC>0.162</ConstantC>
+      <ConstantD>0.014</ConstantD>
+      <Model>Wind</Model>
+      <Manufacturer>CycleOps</Manufacturer>
+      <ReferenceId>
+      0fcaa68d-20a9-4e15-8498-5e932259aa4c</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>2.93</ConstantB>
+      <ConstantC>0.319</ConstantC>
+      <ConstantD>0.0038</ConstantD>
+      <Model>Crono Fluid</Model>
+      <Manufacturer>Elite</Manufacturer>
+      <ReferenceId>
+      2e1189f0-06e4-4cd0-bc89-130fc331f629</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>1.42857142857152</ConstantA>
+      <ConstantB>3.0462582868778</ConstantB>
+      <ConstantC>0.22662395982752</ConstantC>
+      <ConstantD>0.00521022728777088</ConstantD>
+      <Model>Fluid Alu</Model>
+      <Manufacturer>Elite</Manufacturer>
+      <ReferenceId>
+      f836b4a7-fa4e-4189-beaa-a51d0d1e0f4a</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>4.65979</ConstantB>
+      <ConstantC>0</ConstantC>
+      <ConstantD>0.013163</ConstantD>
+      <Model>Volare</Model>
+      <Manufacturer>Elite</Manufacturer>
+      <ReferenceId>
+      bcdaf33e-2bc2-401f-9e17-7cd603d8c769</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>5.2448</ConstantB>
+      <ConstantC>0</ConstantC>
+      <ConstantD>0.019168</ConstantD>
+      <Model>AC Pro</Model>
+      <Manufacturer>Kinetic</Manufacturer>
+      <ReferenceId>
+      d71c5912-dc81-4d94-b89a-7a1a31c5f5c4</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>6.48109</ConstantB>
+      <ConstantC>0</ConstantC>
+      <ConstantD>0.020106</ConstantD>
+      <Model>Cyclone</Model>
+      <Manufacturer>Kinetic</Manufacturer>
+      <ReferenceId>
+      dab392ec-8af0-4b18-96d6-21789e868984</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>6.5</ConstantA>
+      <ConstantB>0</ConstantB>
+      <ConstantC>0</ConstantC>
+      <ConstantD>0.0219</ConstantD>
+      <Model>Cyclone</Model>
+      <Manufacturer>Kinetic</Manufacturer>
+      <ReferenceId>
+      90cec28b-63ab-446c-8ec7-589cfc574fba</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>5.2449</ConstantB>
+      <ConstantC>0</ConstantC>
+      <ConstantD>0.019168</ConstantD>
+      <Model>Road Machine</Model>
+      <Manufacturer>Kinetic</Manufacturer>
+      <ReferenceId>
+      79fd8241-f884-498d-acf3-529f4e1593b5</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>1.293811</ConstantB>
+      <ConstantC>0.351211</ConstantC>
+      <ConstantD>0.021354</ConstantD>
+      <Model>Rock and Roll Trainer Pro</Model>
+      <Manufacturer>Kinetic</Manufacturer>
+      <ReferenceId>
+      c91d1c28-423d-42f2-a4b7-223e37046e88</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>5.245</ConstantB>
+      <ConstantC>0</ConstantC>
+      <ConstantD>0.019168</ConstantD>
+      <Model>Standard Fluid</Model>
+      <Manufacturer>Kinetic</Manufacturer>
+      <ReferenceId>
+      12774f0f-87c5-4d77-956d-7013bec735f2</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>3.231559</ConstantA>
+      <ConstantB>-0.676301</ConstantB>
+      <ConstantC>1.043669</ConstantC>
+      <ConstantD>-0.010751</ConstantD>
+      <Model>e-rda-1050r-pm</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      dd20e69c-d19d-430a-92b8-de1d42ab274a</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.132077</ConstantA>
+      <ConstantB>5.325024</ConstantB>
+      <ConstantC>0.303382</ConstantC>
+      <ConstantD>-0.003281</ConstantD>
+      <Model>e-rda-850 1</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      1acdbe97-f720-4bf9-af45-8d471d5cb8db</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.845364</ConstantA>
+      <ConstantB>5.697535</ConstantB>
+      <ConstantC>0.368463</ConstantC>
+      <ConstantD>-0.003908</ConstantD>
+      <Model>e-rda-850 2</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      3b52bc5f-d812-4020-84ba-def781220606</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.894315</ConstantA>
+      <ConstantB>5.895484</ConstantB>
+      <ConstantC>0.463489</ConstantC>
+      <ConstantD>-0.004939</ConstantD>
+      <Model>e-rda-850 3</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      4eceff37-f4f6-484a-b93c-298284be201a</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-2.271937</ConstantA>
+      <ConstantB>6.748296</ConstantB>
+      <ConstantC>0.492409</ConstantC>
+      <ConstantD>-0.005056</ConstantD>
+      <Model>e-rda-850 4</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      0f342b40-2314-49ca-bdfe-69b9944555cb</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.971238</ConstantA>
+      <ConstantB>6.389915</ConstantB>
+      <ConstantC>0.566244</ConstantC>
+      <ConstantD>-0.005879</ConstantD>
+      <Model>e-rda-850 5</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      40ada5b6-6bc0-401e-94bc-b87f3d40e062</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-2.271937</ConstantA>
+      <ConstantB>7.099425</ConstantB>
+      <ConstantC>0.532434</ConstantC>
+      <ConstantD>-0.005527</ConstantD>
+      <Model>e-rda-850 H</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      fe8827ea-44a1-413a-9773-11dcaba1be87</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.810399</ConstantA>
+      <ConstantB>4.7797</ConstantB>
+      <ConstantC>0.269816</ConstantC>
+      <ConstantD>-0.002758</ConstantD>
+      <Model>e-rda-850 L</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      b61d61f8-e736-4e66-96c1-53fd52ee707e</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-2.006203</ConstantA>
+      <ConstantB>3.832477</ConstantB>
+      <ConstantC>0.499412</ConstantC>
+      <ConstantD>-0.005087</ConstantD>
+      <Model>hyper-mag-1200r 1</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      24bc3790-fe78-4a19-b695-e5c90e3baefc</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-2.936273</ConstantA>
+      <ConstantB>4.970519</ConstantB>
+      <ConstantC>0.539378</ConstantC>
+      <ConstantD>-0.005491</ConstantD>
+      <Model>hyper-mag-1200r 2</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      c1bb9d7c-d266-4808-bf6c-564d5bdd55ac</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-2.411797</ConstantA>
+      <ConstantB>5.029665</ConstantB>
+      <ConstantC>0.665134</ConstantC>
+      <ConstantD>-0.007498</ConstantD>
+      <Model>hyper-mag-1200r 3</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      b8edaea0-a48d-45cc-9835-0353431272c2</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-2.768441</ConstantA>
+      <ConstantB>5.398676</ConstantB>
+      <ConstantC>0.692904</ConstantC>
+      <ConstantD>-0.007975</ConstantD>
+      <Model>hyper-mag-1200r 4</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      a1e71297-6f9c-4928-b443-1b09f1b8bf61</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-4.516692</ConstantA>
+      <ConstantB>7.79418</ConstantB>
+      <ConstantC>0.621845</ConstantC>
+      <ConstantD>-0.006988</ConstantD>
+      <Model>hyper-mag-1200r 5</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      62608812-995b-4ce0-bbb4-dd6ca2d7ac49</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-6.593615</ConstantA>
+      <ConstantB>10.466034</ConstantB>
+      <ConstantC>0.545234</ConstantC>
+      <ConstantD>-0.006597</ConstantD>
+      <Model>hyper-mag-1200r H</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      5db13712-8a91-43ca-8d9e-13cd97b1fe22</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.943266</ConstantA>
+      <ConstantB>3.100958</ConstantB>
+      <ConstantC>0.267462</ConstantC>
+      <ConstantD>-0.002455</ConstantD>
+      <Model>hyper-mag-1200r L</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      32265faa-5f2c-47d4-9865-b832da317840</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.334874</ConstantA>
+      <ConstantB>2.405954</ConstantB>
+      <ConstantC>0.381203</ConstantC>
+      <ConstantD>-0.003357</ConstantD>
+      <Model>mag-500 / 850 1</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      6d5656b3-b88c-4231-b9a5-7e1f01f7bab6</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.027182</ConstantA>
+      <ConstantB>1.956413</ConstantB>
+      <ConstantC>0.519637</ConstantC>
+      <ConstantD>-0.004714</ConstantD>
+      <Model>mag-500 / 850 2</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      ab2f5570-cdde-4688-8500-a4ac6f3f88bf</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.684524</ConstantA>
+      <ConstantB>2.689309</ConstantB>
+      <ConstantC>0.54137</ConstantC>
+      <ConstantD>-0.004657</ConstantD>
+      <Model>mag-500 / 850 3</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      75c3510a-1ae1-4f78-be16-7b0edddfa1ea</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-2.146063</ConstantA>
+      <ConstantB>3.022431</ConstantB>
+      <ConstantC>0.595161</ConstantC>
+      <ConstantD>-0.005128</ConstantD>
+      <Model>mag-500 / 850 4</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      ea348dbe-f103-4447-afbd-81ac7c364c23</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-3.202007</ConstantA>
+      <ConstantB>4.691292</ConstantB>
+      <ConstantC>0.691334</ConstantC>
+      <ConstantD>-0.006895</ConstantD>
+      <Model>mag-500 / 850 5</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      d1232467-84b9-4add-b98a-e92a781ebe95</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-2.439769</ConstantA>
+      <ConstantB>4.736684</ConstantB>
+      <ConstantC>0.811294</ConstantC>
+      <ConstantD>-0.008019</ConstantD>
+      <Model>mag-500 / 850 H</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      e9357457-906a-4077-ae49-bd50823f75b2</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.99921</ConstantA>
+      <ConstantB>2.262526</ConstantB>
+      <ConstantC>0.133373</ConstantC>
+      <ConstantD>-0.000632</ConstantD>
+      <Model>mag-500 / 850 L</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      41bedf88-77a5-4f26-b041-d45f817030ef</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.837525</ConstantA>
+      <ConstantB>2.276371</ConstantB>
+      <ConstantC>0.398118</ConstantC>
+      <ConstantD>-0.004222</ConstantD>
+      <Model>mag-500l-d 1</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      611854b6-12df-4c71-8e6c-cfda7948854e</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.110253</ConstantA>
+      <ConstantB>2.630519</ConstantB>
+      <ConstantC>0.498915</ConstantC>
+      <ConstantD>-0.00511</ConstantD>
+      <Model>mag-500l-d 2</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      ffbc5cdf-5992-453e-b745-6258a76f1bb6</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.403182</ConstantA>
+      <ConstantB>2.727785</ConstantB>
+      <ConstantC>0.614811</ConstantC>
+      <ConstantD>-0.006923</ConstantD>
+      <Model>mag-500l-d 3</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      6474faf7-603a-4b8b-8af9-473432b7f1fb</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.948636</ConstantA>
+      <ConstantB>3.892873</ConstantB>
+      <ConstantC>0.777946</ConstantC>
+      <ConstantD>-0.007814</ConstantD>
+      <Model>mag-500l-d H</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      4ff80864-9080-474d-913c-e946868cfac5</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.009242</ConstantA>
+      <ConstantB>1.412445</ConstantB>
+      <ConstantC>0.159939</ConstantC>
+      <ConstantD>-0.001116</ConstantD>
+      <Model>mag-500l-d L</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      41deae71-2da6-4079-bf62-122b3e26aea7</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.201162</ConstantA>
+      <ConstantB>2.907916</ConstantB>
+      <ConstantC>0.091247</ConstantC>
+      <ConstantD>0.000174</ConstantD>
+      <Model>mag-500l-r 1</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      8f41c09b-1430-4a3b-9aa5-4f26f4dd07e7</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.514293</ConstantA>
+      <ConstantB>3.712741</ConstantB>
+      <ConstantC>0.245113</ConstantC>
+      <ConstantD>-0.002354</ConstantD>
+      <Model>mag-500l-r 2</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      617995d9-819a-4e16-9dbf-94002d424f5c</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.716313</ConstantA>
+      <ConstantB>4.358064</ConstantB>
+      <ConstantC>0.40933</ConstantC>
+      <ConstantD>-0.004222</ConstantD>
+      <Model>mag-500l-r 3</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      9c0c75cc-86b2-4528-b19c-2e798e5a9a98</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-2.898131</ConstantA>
+      <ConstantB>5.430261</ConstantB>
+      <ConstantC>0.549256</ConstantC>
+      <ConstantD>-0.006105</ConstantD>
+      <Model>mag-500l-r 4</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      e9723fef-c6f2-4747-970c-a1b05e188a16</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-3.372879</ConstantA>
+      <ConstantB>6.546193</ConstantB>
+      <ConstantC>0.562786</ConstantC>
+      <ConstantD>-0.004988</ConstantD>
+      <Model>mag-500l-r 5</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      bccca186-1378-40e8-a078-fe072ebf9383</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-3.746616</ConstantA>
+      <ConstantB>7.373196</ConstantB>
+      <ConstantC>0.577399</ConstantC>
+      <ConstantD>-0.004012</ConstantD>
+      <Model>mag-500l-r H</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      fa89d273-d0c5-4cd1-b15e-391923a4fc80</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.221364</ConstantA>
+      <ConstantB>1.792602</ConstantB>
+      <ConstantC>0.132806</ConstantC>
+      <ConstantD>-0.000383</ConstantD>
+      <Model>mag-500l-r L</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      f313eff2-c9cf-48bb-af7f-b59fd39fb8b0</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.908301</ConstantA>
+      <ConstantB>1.966168</ConstantB>
+      <ConstantC>0.301087</ConstantC>
+      <ConstantD>-0.002637</ConstantD>
+      <Model>mag-850 1</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      ec915970-6f62-4c28-8a13-7ce0473e114a</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.85935</ConstantA>
+      <ConstantB>1.63017</ConstantB>
+      <ConstantC>0.41018</ConstantC>
+      <ConstantD>-0.003696</ConstantD>
+      <Model>mag-850 2</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      4e732e67-5976-4b1f-b69f-0a78af288717</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.34886</ConstantA>
+      <ConstantB>2.189625</ConstantB>
+      <ConstantC>0.429198</ConstantC>
+      <ConstantD>-0.003667</ConstantD>
+      <Model>mag-850 3</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      270b97dd-71b9-46d4-9ba6-cc5ef61adb5a</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.663545</ConstantA>
+      <ConstantB>2.424962</ConstantB>
+      <ConstantC>0.474297</ConstantC>
+      <ConstantD>-0.004074</ConstantD>
+      <Model>mag-850 4</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      8104c8fd-8c83-4f9a-9d20-bf8773f59e26</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-2.55865</ConstantA>
+      <ConstantB>3.675419</ConstantB>
+      <ConstantC>0.561413</ConstantC>
+      <ConstantD>-0.005638</ConstantD>
+      <Model>mag-850 5</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      02c48740-2e5e-4c60-be74-698c9389522e</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.866343</ConstantA>
+      <ConstantB>3.746946</ConstantB>
+      <ConstantC>0.650161</ConstantC>
+      <ConstantD>-0.006402</ConstantD>
+      <Model>mag-850 H</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      fe48852a-a8bc-48f4-a43c-28e3c1301b79</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.810399</ConstantA>
+      <ConstantB>1.811861</ConstantB>
+      <ConstantC>0.106026</ConstantC>
+      <ConstantD>-0.000492</ConstantD>
+      <Model>mag-850 L</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      d6c36979-1dc2-464d-84a2-a4f4aee07235</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.706212</ConstantA>
+      <ConstantB>2.241383</ConstantB>
+      <ConstantC>0.730293</ConstantC>
+      <ConstantD>-0.004675</ConstantD>
+      <Model>vfs (Japanese)</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      d8a5af1f-ffe8-47b9-8c82-934a4e731c59</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>1.677626</ConstantA>
+      <ConstantB>-1.039844</ConstantB>
+      <ConstantC>0.559797</ConstantC>
+      <ConstantD>-0.003279</ConstantD>
+      <Model>vfs-r new 1</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      683290fa-1973-4207-b231-fec8f3e0282d</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>1.192778</ConstantA>
+      <ConstantB>-0.331897</ConstantB>
+      <ConstantC>0.562152</ConstantC>
+      <ConstantD>-0.003175</ConstantD>
+      <Model>vfs-r new 2</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      f354a073-a49e-43bd-8dd0-c1a47744a1de</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>1.051364</ConstantA>
+      <ConstantB>-0.162294</ConstantB>
+      <ConstantC>0.63802</ConstantC>
+      <ConstantD>-0.004152</ConstantD>
+      <Model>vfs-r new 3</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      5cf2a014-abc4-4894-95a6-d6fe7848c074</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>2.445303</ConstantA>
+      <ConstantB>-1.20163</ConstantB>
+      <ConstantC>0.896681</ConstantC>
+      <ConstantD>-0.00907</ConstantD>
+      <Model>vfs-r new 4</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      e0b5131c-c163-4308-a0e7-0a540857152a</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0.384697</ConstantA>
+      <ConstantB>0.678953</ConstantB>
+      <ConstantC>0.746327</ConstantC>
+      <ConstantD>-0.005563</ConstantD>
+      <Model>vfs-r new 5</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      53d93edd-4c0a-471d-95f9-dacdc2ddeb55</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>1.243283</ConstantA>
+      <ConstantB>-0.277981</ConstantB>
+      <ConstantC>0.917159</ConstantC>
+      <ConstantD>-0.008267</ConstantD>
+      <Model>vfs-r new H</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      040a9906-7439-4a70-a03d-b58a4dc4ffbd</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>1.596818</ConstantA>
+      <ConstantB>-1.243082</ConstantB>
+      <ConstantC>0.551349</ConstantC>
+      <ConstantD>-0.003261</ConstantD>
+      <Model>vfs-r new L</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      b2880d47-0101-4a6e-97ec-ff2658b52b07</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>1.01096</ConstantA>
+      <ConstantB>0.480205</ConstantB>
+      <ConstantC>0.524703</ConstantC>
+      <ConstantD>-0.003069</ConstantD>
+      <Model>vfs-r old 1</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      5d036eca-cf24-47f9-a4e3-4c4174c20079</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>1.243283</ConstantA>
+      <ConstantB>0.685764</ConstantB>
+      <ConstantC>0.589434</ConstantC>
+      <ConstantD>-0.004134</ConstantD>
+      <Model>vfs-r old 2</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      bb7c8c68-1887-452b-b7ac-0a307ab6e209</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0.152374</ConstantA>
+      <ConstantB>1.825423</ConstantB>
+      <ConstantC>0.533934</ConstantC>
+      <ConstantD>-0.002668</ConstantD>
+      <Model>vfs-r old 3</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      15bd3333-4f6b-463b-9744-dd1024510288</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.120354</ConstantA>
+      <ConstantB>1.893815</ConstantB>
+      <ConstantC>0.684846</ConstantC>
+      <ConstantD>-0.005232</ConstantD>
+      <Model>vfs-r old 4</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      d3026920-b59f-4005-837e-cc2695cb3819</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.130455</ConstantA>
+      <ConstantB>2.399297</ConstantB>
+      <ConstantC>0.675017</ConstantC>
+      <ConstantD>-0.0041</ConstantD>
+      <Model>vfs-r old 5</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      ed9fb044-99fe-42df-8201-5d8936e19030</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-1.38298</ConstantA>
+      <ConstantB>4.05605</ConstantB>
+      <ConstantC>0.546565</ConstantC>
+      <ConstantD>-0.001238</ConstantD>
+      <Model>vfs-r old H</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      c70dcb5f-be62-40c9-bdaf-edaf31fa78ec</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0.21298</ConstantA>
+      <ConstantB>1.153937</ConstantB>
+      <ConstantC>0.380667</ConstantC>
+      <ConstantD>-0.000681</ConstantD>
+      <Model>vfs-r old L</Model>
+      <Manufacturer>Minoura</Manufacturer>
+      <ReferenceId>
+      c27841d0-98df-4f96-92e9-b44ac6de91fa</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>4.053606</ConstantB>
+      <ConstantC>0.866088</ConstantC>
+      <ConstantD>-0.006734</ConstantD>
+      <Model>Mag2 (Minoura) hardest</Model>
+      <Manufacturer>Nashbar</Manufacturer>
+      <ReferenceId>
+      1f4e227b-3a21-4c82-8090-0a916423dae1</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>4.145</ConstantB>
+      <ConstantC>0</ConstantC>
+      <ConstantD>0.01217</ConstantD>
+      <Model>TravelTrac Century Fluid</Model>
+      <Manufacturer>Performance</Manufacturer>
+      <ReferenceId>
+      51490335-4428-4458-81b9-222e3df4a71e</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>0.489159</ConstantB>
+      <ConstantC>0.334357</ConstantC>
+      <ConstantD>0.001685</ConstantD>
+      <Model>TravelTrac Century V</Model>
+      <Manufacturer>Performance</Manufacturer>
+      <ReferenceId>
+      7661204f-b37a-4b45-b314-4557aaa786d9</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>3.05</ConstantB>
+      <ConstantC>0.542</ConstantC>
+      <ConstantD>-0.0055</ConstantD>
+      <Model>TravelTrac Millenium V level 1</Model>
+      <Manufacturer>Performance</Manufacturer>
+      <ReferenceId>
+      5d279ed0-39d1-4438-a573-4dfd1abde89d</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>6.96</ConstantB>
+      <ConstantC>0.472</ConstantC>
+      <ConstantD>-0.0049</ConstantD>
+      <Model>TravelTrac Millenium V level 2</Model>
+      <Manufacturer>Performance</Manufacturer>
+      <ReferenceId>
+      e63dfed9-e8ae-4f5c-ac6e-821e13381231</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>0</ConstantA>
+      <ConstantB>5.2451</ConstantB>
+      <ConstantC>0</ConstantC>
+      <ConstantD>0.01968</ConstantD>
+      <Model>Super Fluid 4.5</Model>
+      <Manufacturer>Spinervals</Manufacturer>
+      <ReferenceId>
+      92ed77d3-0d9f-4689-a769-3c28156a7d02</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>-0.0565</ConstantA>
+      <ConstantB>3.508522</ConstantB>
+      <ConstantC>0.187773</ConstantC>
+      <ConstantD>-0.000777</ConstantD>
+      <Model>Mag+ hardest</Model>
+      <Manufacturer>Trek</Manufacturer>
+      <ReferenceId>
+      704d3636-2158-4e2a-92f8-f7df45ad7153</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+    <Trainer>
+      <AlgoSpeedUnits>mph</AlgoSpeedUnits>
+      <ConstantA>5.0625</ConstantA>
+      <ConstantB>5.680648</ConstantB>
+      <ConstantC>0.06967</ConstantC>
+      <ConstantD>0.004403</ConstantD>
+      <Model>Trainer</Model>
+      <Manufacturer>Vetta</Manufacturer>
+      <ReferenceId>
+      7d6efd93-8792-4888-bf6c-3532e19af9fe</ReferenceId>
+      <EquipmentList />
+    </Trainer>
+<!-- Added/updated in v1.1 --> 
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-1.16783216783223</ConstantA><ConstantB>3.62446277061515</ConstantB><ConstantC>0.17689196198325</ConstantC><ConstantD>-0.000803192769148186</ConstantD><Model>PowerMag Level 1</Model><Manufacturer>Elite</Manufacturer><ReferenceId>7de17e11-243b-43f7-bc67-d91440fb740a</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.363636363636395</ConstantA><ConstantB>3.54843470904764</ConstantB><ConstantC>0.442531768374482</ConstantC><ConstantD>-0.00590735326986424</ConstantD><Model>PowerMag Level 2</Model><Manufacturer>Elite</Manufacturer><ReferenceId>a624ecd8-a5aa-41a3-90ac-ae61687c7ec6</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-1.48951048951047</ConstantA><ConstantB>5.08762781732785</ConstantB><ConstantC>0.614352424962992</ConstantC><ConstantD>-0.00917194323478923</ConstantD><Model>PowerMag Level 3</Model><Manufacturer>Elite</Manufacturer><ReferenceId>8d3bf008-26b8-4dcd-8fb0-53b6fb048a84</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-1.7342657342657</ConstantA><ConstantB>5.16903286351279</ConstantB><ConstantC>0.880112976720764</ConstantC><ConstantD>-0.0150015681721553</ConstantD><Model>PowerMag Level 4</Model><Manufacturer>Elite</Manufacturer><ReferenceId>b3092a79-a866-4326-8653-f7a3f324be63</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-3.18881118881126</ConstantA><ConstantB>6.23730215622854</ConstantB><ConstantC>1.0207209560583</ConstantC><ConstantD>-0.0172621671756449</ConstantD><Model>PowerMag Level 5</Model><Manufacturer>Elite</Manufacturer><ReferenceId>0dc6353b-0bbc-4054-af77-16bc2bee5b8e</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-4.18881118881114</ConstantA><ConstantB>7.47138264900755</ConstantB><ConstantC>1.15505017633569</ConstantC><ConstantD>-0.0195227661791347</ConstantD><Model>PowerMag Level 6</Model><Manufacturer>Elite</Manufacturer><ReferenceId>39f3abb7-312f-4912-9c2b-6ca3afc485ee</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-5.11888111888112</ConstantA><ConstantB>8.74972948026508</ConstantB><ConstantC>1.2917943039439</ConstantC><ConstantD>-0.0222497351776137</ConstantD><Model>PowerMag Level 7</Model><Manufacturer>Elite</Manufacturer><ReferenceId>df6bb0b8-3522-4810-b84f-db00968d9643</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-6.48951048951042</ConstantA><ConstantB>10.2050166192824</ConstantB><ConstantC>1.42902141301828</ConstantC><ConstantD>-0.0255078477814972</ConstantD><Model>PowerMag Level 8</Model><Manufacturer>Elite</Manufacturer><ReferenceId>d631c26b-47e0-4d41-967e-7f7907596b7a</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>2.95238095238123</ConstantA><ConstantB>-2.58516845813031</ConstantB><ConstantC>1.14206142476344</ConstantC><ConstantD>-0.00370505051574824</ConstantD><Model>PowerFluid </Model><Manufacturer>Elite</Manufacturer><ReferenceId>e8baec9c-d649-453b-bf07-bace02b313cc</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.777777777777786</ConstantA><ConstantB>3.87306941100314</ConstantB><ConstantC>0.246562757200099</ConstantC><ConstantD>-0.004129587554011</ConstantD><Model>Mag Level 1</Model><Manufacturer>Elite</Manufacturer><ReferenceId>51019006-ac34-42a3-a166-36d794b8fd53</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-1.1190476190476</ConstantA><ConstantB>5.0793323447972</ConstantB><ConstantC>0.365296240007691</ConstantC><ConstantD>-0.00657067552402218</ConstantD><Model>Mag Level 2</Model><Manufacturer>Elite</Manufacturer><ReferenceId>75e18545-72bc-4c05-9487-eba050e7f0df</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-1.46031746031746</ConstantA><ConstantB>6.28559527859127</ConstantB><ConstantC>0.484029722815284</ConstantC><ConstantD>-0.00901176349403337</ConstantD><Model>Mag Level 3</Model><Manufacturer>Elite</Manufacturer><ReferenceId>f5a572ad-ee35-4495-abc9-aae5fd5fef7d</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-1.80158730158735</ConstantA><ConstantB>7.49185821238535</ConstantB><ConstantC>0.602763205622875</ConstantC><ConstantD>-0.0114528514640445</ConstantD><Model>Mag Level 4</Model><Manufacturer>Elite</Manufacturer><ReferenceId>6e286b64-8798-4f8f-83f2-686e80989609</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-2.14285714285717</ConstantA><ConstantB>8.69812114617942</ConstantB><ConstantC>0.721496688430468</ConstantC><ConstantD>-0.0138939394340557</ConstantD><Model>Mag Level 5</Model><Manufacturer>Elite</Manufacturer><ReferenceId>cb512bcc-d4be-4115-b7f8-ea7457fe2e7c</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>1.14285714285712</ConstantA><ConstantB>1.6974747435055</ConstantB><ConstantC>0.539272524814055</ConstantC><ConstantD>-0.00243143940095975</ConstantD><Model>HydroMag Level 1</Model><Manufacturer>Elite</Manufacturer><ReferenceId>6ff4dea4-0fcf-4c4d-8fb2-cddb0480e5a5</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>1.1904761904762</ConstantA><ConstantB>0.734422857423363</ConstantB><ConstantC>0.83557949813956</ConstantC><ConstantD>-0.00463131314468525</ConstantD><Model>HydroMag Level 2</Model><Manufacturer>Elite</Manufacturer><ReferenceId>56d5401f-507c-4a1c-a990-689ae3ba0526</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>2.85714285714288</ConstantA><ConstantB>-2.83551085822588</ConstantB><ConstantC>1.23949431089337</ConstantC><ConstantD>-0.00694696971702783</ConstantD><Model>HydroMag Level 3</Model><Manufacturer>Elite</Manufacturer><ReferenceId>55480945-494e-4b2b-8072-7d0d7bfcff14</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>2.4603174603173</ConstantA><ConstantB>-1.66256304825404</ConstantB><ConstantC>1.361799305086</ConstantC><ConstantD>-0.00540319866879941</ConstantD><Model>HydroMag Level 4</Model><Manufacturer>Elite</Manufacturer><ReferenceId>9281b21d-9613-4cc6-89a7-5b62e606bf3c</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0.63492063492048</ConstantA><ConstantB>2.00103619124051</ConstantB><ConstantC>1.18810565787125</ConstantC><ConstantD>0.00308754209645687</ConstantD><Model>HydroMag Level 5</Model><Manufacturer>Elite</Manufacturer><ReferenceId>b7059a49-6bdb-425f-a5d8-eb6bf5873f3f</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.00170390782585628</ConstantA><ConstantB>4.9267232237603</ConstantB><ConstantC>-0.117840663846977</ConstantC><ConstantD>0.0197456846686859</ConstantD><Model>JetFluidPro</Model><Manufacturer>CycleOps</Manufacturer><ReferenceId>0a53e6d2-a0b9-46c2-9112-4f9d7fa60ff2</ReferenceId><EquipmentList /></Trainer>
+<!-- Added in v1.1.2 -->
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-1.69361180854322</ConstantA><ConstantB>4.8316011670131</ConstantB><ConstantC>-0.104979886788859</ConstantC><ConstantD>0.0169930755283735</ConstantD><Model>TravelTrac Fluid </Model><Manufacturer>Performance</Manufacturer><ReferenceId>83af21e9-a24c-4a11-a1d0-f04fe339e45a</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.307659242730921</ConstantA><ConstantB>7.13317777713255</ConstantB><ConstantC>-0.474576785905527</ConstantC><ConstantD>0.0292169261745388</ConstantD><Model>TravelTrac Fluid+ Level 1</Model><Manufacturer>Performance</Manufacturer><ReferenceId>b9642efc-2a88-4069-a3de-697cfe2364a1</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.143000178815797</ConstantA><ConstantB>4.86456504008087</ConstantB><ConstantC>0.0110945885705381</ConstantC><ConstantD>0.0184989905312119</ConstantD><Model>TravelTrac Fluid+ Level 2</Model><Manufacturer>Performance</Manufacturer><ReferenceId>9f9675df-5662-4380-9749-870bc6e108fc</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0.282921545734311</ConstantA><ConstantB>5.86250090930481</ConstantB><ConstantC>0.0236589974869643</ConstantC><ConstantD>0.0196997446979557</ConstantD><Model>TravelTrac Fluid+ Level 3</Model><Manufacturer>Performance</Manufacturer><ReferenceId>e7a55900-ef59-4be6-8613-a6ac9451c57b</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0.505247990954686</ConstantA><ConstantB>6.10347484788796</ConstantB><ConstantC>0.195181527615915</ConstantC><ConstantD>0.0151321354196727</ConstantD><Model>TravelTrac Fluid+ Level 4</Model><Manufacturer>Performance</Manufacturer><ReferenceId>7f5797d7-38d3-4f4c-bfab-24b5058d9895</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>1.36278626948604</ConstantA><ConstantB>4.41447894207094</ConstantB><ConstantC>0.473341194604598</ConstantC><ConstantD>0.0092511152085535</ConstantD><Model>TravelTrac Fluid+ Level 5</Model><Manufacturer>Performance</Manufacturer><ReferenceId>267152de-a882-4860-949d-278259ba5e26</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>25</ConstantA><ConstantB>2.65</ConstantB><ConstantC>-0.415</ConstantC><ConstantD>0.058</ConstantD><Model>CPR A-2000 (Black Flyweight)</Model><Manufacturer>1Up USA</Manufacturer><ReferenceId>62641d2f-8374-4f82-8a19-25de5cf6041c</ReferenceId><EquipmentList /></Trainer>
+<!-- Added in v1.1.3 -->
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-6.79916535495219</ConstantA><ConstantB>7.78209551360241</ConstantB><ConstantC>0.385173530210717</ConstantC><ConstantD>-0.00424952997022455</ConstantD><Model>GYRO V100 H</Model><Manufacturer>Minoura</Manufacturer><ReferenceId>16614775-8050-4f7d-a265-16e3a544ffc8</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-4.71104952037503</ConstantA><ConstantB>6.18561261229877</ConstantB><ConstantC>0.435983485414684</ConstantC><ConstantD>-0.00545669577432067</ConstantD><Model>GYRO V100 5</Model><Manufacturer>Minoura</Manufacturer><ReferenceId>4a3e04e6-4d6c-4f8a-b94a-a6eea906a404</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-3.01680935402836</ConstantA><ConstantB>4.43257716694422</ConstantB><ConstantC>0.497320037089466</ConstantC><ConstantD>-0.00683008687861686</ConstantD><Model>GYRO V100 4</Model><Manufacturer>Minoura</Manufacturer><ReferenceId>d7a3c759-1c38-4e50-9719-b9f2d6df0668</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-1.57094806387063</ConstantA><ConstantB>3.05424793588765</ConstantB><ConstantC>0.475864929304394</ConstantC><ConstantD>-0.00644238005590974</ConstantD><Model>GYRO V100 3</Model><Manufacturer>Minoura</Manufacturer><ReferenceId>839bd254-1b7f-4100-9b66-bcce3905bf62</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0.339866997652159</ConstantA><ConstantB>1.07689683527117</ConstantB><ConstantC>0.486664333895199</ConstantC><ConstantD>-0.0063045846717548</ConstantD><Model>GYRO V100 2</Model><Manufacturer>Minoura</Manufacturer><ReferenceId>d488ec7a-4adb-47b6-973d-5f8dfe0f324c</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0.641827873301651</ConstantA><ConstantB>0.541480908338931</ConstantB><ConstantC>0.367857327609284</ConstantC><ConstantD>-0.00398992316445146</ConstantD><Model>GYRO V100 1</Model><Manufacturer>Minoura</Manufacturer><ReferenceId>507d809c-6c70-4ee8-91a3-a4ab4ce763b9</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.0632065224071781</ConstantA><ConstantB>0.720092298470989</ConstantB><ConstantC>0.254565834276675</ConstantC><ConstantD>-0.00271112526190978</ConstantD><Model>GYRO V100 L</Model><Manufacturer>Minoura</Manufacturer><ReferenceId>caae7e76-91b0-4fad-9cb6-e1752646a4d9</ReferenceId><EquipmentList /></Trainer>
+<!-- Kreitler Rollers-->
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-6.17750257997859</ConstantA><ConstantB>4.54619596376554</ConstantB><ConstantC>0.391221620227041</ConstantC><ConstantD>-0.00147094656576084</ConstantD><Model>4.5 drums, 1/4 Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>847bd050-4804-4707-a8ee-ca0023d68b3a</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0.242260061920302</ConstantA><ConstantB>1.28606954477689</ConstantB><ConstantC>0.677534829721365</ConstantC><ConstantD>-0.0007453273707144</ConstantD><Model>4.5 drums, 1/2 Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>9993a8fd-af9f-46f7-9406-fcd9f46f6497</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-33.3222394220847</ConstantA><ConstantB>7.72210038986355</ConstantB><ConstantC>0.0130933952528377</ConstantC><ConstantD>-0.000249039674349268</ConstantD><Model>4.5 drums</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>e4d15330-4afe-4a58-90dd-1d50597df9f4</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.52760577915268</ConstantA><ConstantB>1.31109534457047</ConstantB><ConstantC>0.802147832817341</ConstantC><ConstantD>-0.000809826854718539</ConstantD><Model>4.5 drums, 3/4 Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>baa9828f-89ad-4396-b1f1-a8ea3947e411</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>11.7732198142441</ConstantA><ConstantB>-1.84526573787436</ConstantB><ConstantC>0.962687048503621</ConstantC><ConstantD>0.000515995872032911</ConstantD><Model>4.5 drums, Full Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>0670c6c9-fb2f-4c08-9fe2-1871bb8e910c</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-13.4695562435501</ConstantA><ConstantB>4.85393016855866</ConstantB><ConstantC>0.0166731166150668</ConstantC><ConstantD>-0.000263372893016853</ConstantD><Model>4.5 drums, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>f2e75173-78a7-40c9-a411-33d571496490</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>13.6751805985555</ConstantA><ConstantB>1.67802574246069</ConstantB><ConstantC>0.394801341589269</ConstantC><ConstantD>-0.00148527978442841</ConstantD><Model>4.5 drums, 1/4 Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>d567f8ed-2d16-4f76-9252-060e05df073a</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>20.0949432404551</ConstantA><ConstantB>-1.58210067652801</ConstantB><ConstantC>0.681114551083595</ConstantC><ConstantD>-0.000759660589381992</ConstantD><Model>4.5 drums, 1/2 Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>d16567a7-0115-4d3c-a769-fe1f926df652</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>19.3250773993822</ConstantA><ConstantB>-1.55707487673446</ConstantB><ConstantC>0.805727554179571</ConstantC><ConstantD>-0.000824160073386135</ConstantD><Model>4.5 drums, 3/4 Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>9568b017-0360-4a78-a848-e104f1656d37</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>31.6259029927777</ConstantA><ConstantB>-4.71343595917915</ConstantB><ConstantC>0.966266769865847</ConstantC><ConstantD>0.000501662653365369</ConstantD><Model>4.5 drums, Full Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>ce105515-323f-4597-bee8-5f6203003175</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-58.6906604747162</ConstantA><ConstantB>11.1019020181172</ConstantB><ConstantC>0.0274122807017541</ConstantC><ConstantD>-0.000449704735695443</ConstantD><Model>4.5 drums, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>58146d8a-877b-4cfb-a181-7a27d4b10471</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-31.5459236326111</ConstantA><ConstantB>7.9259975920193</ConstantB><ConstantC>0.405540505675953</ConstantC><ConstantD>-0.00167161162710697</ConstantD><Model>4.5 drums, 1/4 Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>aa669f63-8213-4764-aa2e-6d0f116a7212</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-25.1261609907115</ConstantA><ConstantB>4.66587117303057</ConstantB><ConstantC>0.69185371517028</ConstantC><ConstantD>-0.000945992432060564</ConstantD><Model>4.5 drums, 1/2 Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>a5e902db-458a-4e9a-bebf-e2bad27b7f28</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-25.8960268317846</ConstantA><ConstantB>4.69089697282415</ConstantB><ConstantC>0.816466718266256</ConstantC><ConstantD>-0.00101049191606469</ConstantD><Model>4.5 drums, 3/4 Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>0fcead69-9772-40a0-980a-446a75a167e2</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-13.5952012383883</ConstantA><ConstantB>1.53453589037936</ConstantB><ConstantC>0.977005933952534</ConstantC><ConstantD>0.000315330810686776</ConstantD><Model>4.5 drums, Full Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>a7e6aa99-fd8a-4d8b-aea2-286d964415df</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-38.8379772961816</ConstantA><ConstantB>8.2337317968123</ConstantB><ConstantC>0.0309920020639832</ConstantC><ConstantD>-0.000464037954363028</ConstantD><Model>4.5 drums, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>5d3abeba-ffc4-4204-8a61-2ee962e9a158</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-11.6932404540758</ConstantA><ConstantB>5.05782737071431</ConstantB><ConstantC>0.409120227038185</ConstantC><ConstantD>-0.00168594484577459</ConstantD><Model>4.5 drums, 1/4 Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>44894ccc-6c8b-4ba1-9f9d-644ee8092e91</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-5.27347781217576</ConstantA><ConstantB>1.79770095172554</ConstantB><ConstantC>0.695433436532514</ConstantC><ConstantD>-0.000960325650728201</ConstantD><Model>4.5 drums, 1/2 Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>02afa357-f869-4d22-bcd1-f7ff64c2bce2</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-6.04334365324999</ConstantA><ConstantB>1.82272675151924</ConstantB><ConstantC>0.820046439628486</ConstantC><ConstantD>-0.00102482513473228</ConstantD><Model>4.5 drums, 3/4 Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>a4679a14-ea52-4223-a22c-92af3ba858ac</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>6.25748194014638</ConstantA><ConstantB>-1.33363433092554</ConstantB><ConstantC>0.980585655314764</ConstantC><ConstantD>0.000300997592019176</ConstantD><Model>4.5 drums, Full Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>d00ae488-bf74-4d96-8fde-742bf9eed669</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-44.3591331269351</ConstantA><ConstantB>10.6222193555785</ConstantB><ConstantC>0.0202205882352936</ConstantC><ConstantD>-0.00035295550968925</ConstantD><Model>3.0 drums</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>695c15d0-d5a6-4989-ae52-95e8a88d73a9</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-17.2143962848288</ConstantA><ConstantB>7.44631492948048</ConstantB><ConstantC>0.398348813209497</ConstantC><ConstantD>-0.00157486240110082</ConstantD><Model>3.0 drums, 1/4 Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>be9e3649-68ee-431c-b596-2367775bdb2e</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-10.7946336429293</ConstantA><ConstantB>4.18618851049177</ConstantB><ConstantC>0.684662022703824</ConstantC><ConstantD>-0.000849243206054418</ConstantD><Model>3.0 drums, 1/2 Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>b2bfc385-2548-4705-8851-29af59ecdeef</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-11.564499484003</ConstantA><ConstantB>4.21121431028542</ConstantB><ConstantC>0.809275025799797</ConstantC><ConstantD>-0.000913742690058525</ConstantD><Model>3.0 drums, 3/4 Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>994a4010-98fe-44d6-a501-1d2ed51098c5</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0.736326109393222</ConstantA><ConstantB>1.05485322784062</ConstantB><ConstantC>0.969814241486076</ConstantC><ConstantD>0.000412080036692949</ConstantD><Model>3.0 drums, Full Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>214f9715-6e43-4469-b159-0dc35ccb389e</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-24.5064499484004</ConstantA><ConstantB>7.7540491342736</ConstantB><ConstantC>0.023800309597523</ConstantC><ConstantD>-0.000367288728356837</ConstantD><Model>3.0 drums, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>7b2f554c-3809-42ce-a68b-525ba9895919</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>2.63828689370531</ConstantA><ConstantB>4.57814470817563</ConstantB><ConstantC>0.401928534571725</ConstantC><ConstantD>-0.00158919561976839</ConstantD><Model>3.0 drums, 1/4 Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>2474642e-1689-4511-8757-30fd9a711ec2</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>9.05804953560532</ConstantA><ConstantB>1.31801828918686</ConstantB><ConstantC>0.688241744066053</ConstantC><ConstantD>-0.000863576424722005</ConstantD><Model>3.0 drums, 1/2 Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>793c3c69-4d3a-4bd9-8363-39abfc4490b0</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>8.28818369453145</ConstantA><ConstantB>1.34304408898053</ConstantB><ConstantC>0.812854747162026</ConstantC><ConstantD>-0.000928075908726104</ConstantD><Model>3.0 drums, 3/4 Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>191b3a98-0478-4b79-941e-260c2789ec7f</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>20.589009287928</ConstantA><ConstantB>-1.81331699346428</ConstantB><ConstantC>0.973393962848305</ConstantC><ConstantD>0.000397746818025358</ConstantD><Model>3.0 drums, Full Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>94c4ce44-7e1b-4d04-bd2c-c6c844d541db</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-69.7275541795666</ConstantA><ConstantB>14.0020209838321</ConstantB><ConstantC>0.0345394736842098</ConstantC><ConstantD>-0.000553620571035422</ConstantD><Model>3.0 drums, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>092f2f15-f549-4c29-8ac2-e721ff843dd1</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-42.5828173374604</ConstantA><ConstantB>10.8261165577341</ConstantB><ConstantC>0.412667698658413</ConstantC><ConstantD>-0.001775527462447</ConstantD><Model>3.0 drums, 1/4 Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>26efd5e0-5ce6-4718-ac44-21993bd18557</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-36.1630546955615</ConstantA><ConstantB>7.56599013874547</ConstantB><ConstantC>0.698980908152738</ConstantC><ConstantD>-0.00104990826740056</ConstantD><Model>3.0 drums, 1/2 Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>3126e345-a8a9-4826-8828-02e40302e61d</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-36.9329205366343</ConstantA><ConstantB>7.59101593853902</ConstantB><ConstantC>0.823593911248715</ConstantC><ConstantD>-0.00111440775140471</ConstantD><Model>3.0 drums, 3/4 Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>7d9f56a0-f9be-4245-8be2-5edede3968d3</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-24.6320949432389</ConstantA><ConstantB>4.43465485609434</ConstantB><ConstantC>0.984133126934989</ConstantC><ConstantD>0.000211414975346806</ConstantD><Model>3.0 drums, Full Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>c1f143e6-560d-4895-a3ad-590626719289</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-49.874871001032</ConstantA><ConstantB>11.1338507625272</ConstantB><ConstantC>0.0381191950464395</ConstantC><ConstantD>-0.000567953789703014</ConstantD><Model>3.0 drums, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>d5144ef0-f9af-4da3-bec1-2431a7d1397d</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-22.7301341589258</ConstantA><ConstantB>7.95794633642922</ConstantB><ConstantC>0.416247420020643</ConstantC><ConstantD>-0.00178986068111458</ConstantD><Model>3.0 drums, 1/4 Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>6dadef02-5e23-4088-ac14-1f2aa7df3dfa</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-16.3103715170256</ConstantA><ConstantB>4.69781991744044</ConstantB><ConstantC>0.702560629514971</ConstantC><ConstantD>-0.0010642414860682</ConstantD><Model>3.0 drums, 1/2 Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>3286502a-fe53-4db9-9fc9-4727c0e7215c</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-17.0802373580999</ConstantA><ConstantB>4.72284571723415</ConstantB><ConstantC>0.827173632610943</ConstantC><ConstantD>-0.00112874097007228</ConstantD><Model>3.0 drums, 3/4 Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>b966579b-b7d2-4f9d-897e-073d6589a950</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-4.7794117647044</ConstantA><ConstantB>1.56648463478945</ConstantB><ConstantC>0.987712848297218</ConstantC><ConstantD>0.000197081756679227</ConstantD><Model>3.0 drums, Full Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>4f1963bb-2c48-45ce-bbb3-825272734461</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-93.0015479876161</ConstantA><ConstantB>16.0172428620571</ConstantB><ConstantC>0.0305082559339521</ConstantC><ConstantD>-0.000537495700034397</ConstantD><Model>2.25 drums</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>1590260b-695d-4754-8a92-059148da1c72</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-65.8568111455107</ConstantA><ConstantB>12.8413384359592</ConstantB><ConstantC>0.408636480908153</ConstantC><ConstantD>-0.00175940259144594</ConstantD><Model>2.25 drums, 1/4 Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>53ed8afb-bb2f-47ab-9b53-d3af631992af</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-59.4370485036099</ConstantA><ConstantB>9.58121201697034</ConstantB><ConstantC>0.694949690402483</ConstantC><ConstantD>-0.00103378339639958</ConstantD><Model>2.25 drums, 1/2 Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>af6a58e3-8a5a-452a-bea9-7d54e37965fd</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-60.2069143446842</ConstantA><ConstantB>9.60623781676403</ConstantB><ConstantC>0.819562693498455</ConstantC><ConstantD>-0.00109828288040367</ConstantD><Model>2.25 drums, 3/4 Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>fa0189f0-ac50-482b-8de0-b0110fe259dc</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-47.9060887512881</ConstantA><ConstantB>6.44987673431926</ConstantB><ConstantC>0.980101909184733</ConstantC><ConstantD>0.000227539846347829</ConstantD><Model>2.25 drums, Full Fan</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>5c6b2943-4d7a-4583-b20c-81b585edc2a8</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-73.1488648090815</ConstantA><ConstantB>13.1490726407522</ConstantB><ConstantC>0.0340879772961815</ConstantC><ConstantD>-0.000551828918701982</ConstantD><Model>2.25 drums, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>3d92ac27-02e1-4d3b-a581-80a4a6ca3fef</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-46.0041279669759</ConstantA><ConstantB>9.97316821465426</ConstantB><ConstantC>0.412216202270383</ConstantC><ConstantD>-0.00177373581011353</ConstantD><Model>2.25 drums, 1/4 Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>5a0ba662-556f-458c-aa19-c2985a5eed37</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-39.5843653250752</ConstantA><ConstantB>6.71304179566543</ConstantB><ConstantC>0.698529411764713</ConstantC><ConstantD>-0.00104811661506716</ConstantD><Model>2.25 drums, 1/2 Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>159fb6b7-5f03-4880-bd23-0564c50010f7</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-40.3542311661495</ConstantA><ConstantB>6.73806759545914</ConstantB><ConstantC>0.823142414860684</ConstantC><ConstantD>-0.00111261609907124</ConstantD><Model>2.25 drums, 3/4 Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>11d77e13-0ee5-45f3-8a41-4ad08d40615a</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-28.0534055727535</ConstantA><ConstantB>3.58170651301435</ConstantB><ConstantC>0.983681630546963</ConstantC><ConstantD>0.000213206627680217</ConstantD><Model>2.25 drums, Full Fan, Fork Stand</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>69538810-5c35-440d-a607-fffc921cc9c2</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-118.369969040248</ConstantA><ConstantB>19.3970444903107</ConstantB><ConstantC>0.0448271413828689</ConstantC><ConstantD>-0.000738160761380578</ConstantD><Model>2.25 drums, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>b57a384a-a482-4fb8-95f2-84707d934184</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-91.2252321981417</ConstantA><ConstantB>16.2211400642128</ConstantB><ConstantC>0.422955366357071</ConstantC><ConstantD>-0.00196006765279214</ConstantD><Model>2.25 drums, 1/4 Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>9896fa14-ef3b-4f87-a3cf-7f6d75f0cd6c</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-84.8054695562422</ConstantA><ConstantB>12.961013645224</ConstantB><ConstantC>0.709268575851397</ConstantC><ConstantD>-0.00123444845774572</ConstantD><Model>2.25 drums, 1/2 Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>6e459ce2-1380-43d0-9059-d7c3ce950ae9</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-85.5753353973149</ConstantA><ConstantB>12.9860394450176</ConstantB><ConstantC>0.833881578947375</ConstantC><ConstantD>-0.00129894794174988</ConstantD><Model>2.25 drums, 3/4 Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>7024c9c4-ceb7-4ca0-849b-062ee8ded5d1</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-73.2745098039194</ConstantA><ConstantB>9.82967836257289</ConstantB><ConstantC>0.99442079463365</ConstantC><ConstantD>2.68747850016274E-05</ConstantD><Model>2.25 drums, Full Fan, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>f9874cbd-cbbb-42ef-a757-ff34d8442208</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-98.5172858617133</ConstantA><ConstantB>16.5288742690059</ConstantB><ConstantC>0.0484068627450969</ConstantC><ConstantD>-0.000752493980048145</ConstantD><Model>2.25 drums, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>b934eff5-c311-438f-8251-a4b633af1edc</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-71.372549019607</ConstantA><ConstantB>13.3529698429078</ConstantB><ConstantC>0.426535087719301</ConstantC><ConstantD>-0.00197440087145973</ConstantD><Model>2.25 drums, 1/4 Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>2ae5f14d-44fb-4038-9746-28c205222f86</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-64.9527863777075</ConstantA><ConstantB>10.0928434239191</ConstantB><ConstantC>0.712848297213627</ConstantC><ConstantD>-0.00124878167641331</ConstantD><Model>2.25 drums, 1/2 Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>b27aad86-3d9a-405b-b911-d91ba62e3dba</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-65.7226522187807</ConstantA><ConstantB>10.1178692237127</ConstantB><ConstantC>0.837461300309603</ConstantC><ConstantD>-0.00131328116041745</ConstantD><Model>2.25 drums, 3/4 Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>20d04f17-9436-4d6f-a468-3fce19406018</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-53.4218266253851</ConstantA><ConstantB>6.96150814126804</ConstantB><ConstantC>0.998000515995877</ConstantC><ConstantD>0.000012541566334069</ConstantD><Model>2.25 drums, Full Fan, Fork Stand, Flywheel</Model><Manufacturer>Kreitler</Manufacturer><ReferenceId>e3178558-1d8c-4c46-8709-50f55e0e5ea9</ReferenceId><EquipmentList /></Trainer>
+<!-- End Kreitler-->
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>6.56693201831195</ConstantA><ConstantB>-7.94573679555169</ConstantB><ConstantC>1.71205620307635</ConstantC><ConstantD>-0.0257223157884847</ConstantD><Model>SuperMagneto Pro (Mountain) </Model><Manufacturer>CycleOps</Manufacturer><ReferenceId>2e61191f-1505-43a5-8d6c-3c2e3b962b13</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>10.1047697794601</ConstantA><ConstantB>-6.47695632932911</ConstantB><ConstantC>1.1166104509662</ConstantC><ConstantD>-0.00986042777886755</ConstantD><Model>SuperMagneto Pro (Interval) </Model><Manufacturer>CycleOps</Manufacturer><ReferenceId>e59c53e5-dc99-40d6-a65d-ab7505827eb0</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>3.16804746284112</ConstantA><ConstantB>-0.893636275898774</ConstantB><ConstantC>0.703707440467814</ConstantC><ConstantD>-0.00718517987778527</ConstantD><Model>SuperMagneto Pro (Road) </Model><Manufacturer>CycleOps</Manufacturer><ReferenceId>8ce10527-2e80-4f9e-9d7d-e2768abd46b2</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.716669241676788</ConstantA><ConstantB>3.89808702423231</ConstantB><ConstantC>0.196352618614199</ConstantC><ConstantD>0.000414759515864959</ConstantD><Model>SuperMagneto Pro (Easy) </Model><Manufacturer>CycleOps</Manufacturer><ReferenceId>57fa9866-ceed-4dd0-a714-3c1465d4daa2</ReferenceId><EquipmentList /></Trainer>
+<!-- Added in v1.2.1 -->
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-15</ConstantA><ConstantB>6.8984126984127</ConstantB><ConstantC>0.443809523809524</ConstantC><ConstantD>-0.00888888888888889</ConstantD><Model>Flow (Slope 0) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>421b8849-483f-408b-9f9a-d3bd46c2af62</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-20.0000000000001</ConstantA><ConstantB>8.35555555555556</ConstantB><ConstantC>0.373809523809523</ConstantC><ConstantD>-0.00688888888888887</ConstantD><Model>Flow (Slope 1) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>6f853752-4040-437f-9b3e-c892127c59a8</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-23</ConstantA><ConstantB>9.05</ConstantB><ConstantC>0.41</ConstantC><ConstantD>-0.008</ConstantD><Model>Flow (Slope 2) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>600b27ca-ae72-48f2-b6d9-bad30044b31b</ReferenceId><EquipmentList /></Trainer>
+
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-16.8175585797605</ConstantA><ConstantB>5.08808275859949</ConstantB><ConstantC>0.0273839631275411</ConstantC><ConstantD>-0.00021239686395661</ConstantD><Model>Satori (Slope 01) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>0b3e3b14-ff61-4429-bc31-fcb1816fbdb4</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-18.2104778471299</ConstantA><ConstantB>6.10556555968392</ConstantB><ConstantC>0.109767740323351</ConstantC><ConstantD>-0.00154852573036815</ConstantD><Model>Satori (Slope 02) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>de814da3-2178-4b1d-b6c4-15fb29c17666</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-25.6189501688323</ConstantA><ConstantB>8.52107733549651</ConstantB><ConstantC>0.106408679715187</ConstantC><ConstantD>-0.00142754197452675</ConstantD><Model>Satori (Slope 03) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>f5c3ca45-1003-4ca7-a1e0-3cfca0bafacd</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-30.7898291210478</ConstantA><ConstantB>10.6260296501448</ConstantB><ConstantC>0.114482350833744</ConstantC><ConstantD>-0.0014574443442627</ConstantD><Model>Satori (Slope 04) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>137295a1-dc64-424e-b71e-9ff8526a36ee</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-53.0147344725262</ConstantA><ConstantB>15.0118721707599</ConstantB><ConstantC>0.0285036499969298</ConstantC><ConstantD>-0.000252724782570424</ConstantD><Model>Satori (Slope 05) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>b86a8948-f03d-4d11-93df-a99fe552421e</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-70.5520311061076</ConstantA><ConstantB>18.7950701899271</ConstantB><ConstantC>-0.0235849782109261</ConstantC><ConstantD>0.000395649579913754</ConstantD><Model>Satori (Slope 06) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>04e54ed0-ac1f-4e84-abbd-741916ad1f73</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-51.3614038677996</ConstantA><ConstantB>17.0224296542251</ConstantB><ConstantC>0.162068380246122</ConstantC><ConstantD>-0.00209491926928372</ConstantD><Model>Satori (Slope 07) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>0e0f1626-2295-4689-bce4-75fd428da64e</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-86.8293256932366</ConstantA><ConstantB>23.7481196975184</ConstantB><ConstantC>-0.0398727782091763</ConstantC><ConstantD>0.000804710206793206</ConstantD><Model>Satori (Slope 08) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>130cc1c3-4a9f-4edf-9880-a17ed8a3d96d</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-89.1628977795953</ConstantA><ConstantB>25.1474834340601</ConstantB><ConstantC>0.017994494303308</ConstantC><ConstantD>-0.000143872574514209</ConstantD><Model>Satori (Slope 09) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>952cd4bc-1659-49e4-b172-84b312a3caea</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-82.2934615778161</ConstantA><ConstantB>25.383817696465</ConstantB><ConstantC>0.113370614403667</ConstantC><ConstantD>-0.00136697901331825</ConstantD><Model>Satori (Slope 10) </Model><Manufacturer>Tacx</Manufacturer><ReferenceId>d2200cbb-d268-49fc-83c4-0e21c9baa6d9</ReferenceId><EquipmentList /></Trainer>
+<!-- Added in v1.2.3 -->
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-1.6818181818183</ConstantA><ConstantB>2.28174603174605</ConstantB><ConstantC>0.0941558441558433</ConstantC><ConstantD>0.0135353535353536</ConstantD><Model>Z1 Fluid Hydrogel</Model><Manufacturer>Jet Black</Manufacturer><ReferenceId>3800bb0a-f9e8-4002-8428-45bcddf1b431</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0</ConstantA><ConstantB>1.89992000174489</ConstantB><ConstantC>0</ConstantC><ConstantD>0.01876110651908</ConstantD><Model>Revolution </Model><Manufacturer>Lemond</Manufacturer><ReferenceId>7191b249-e972-40b0-984e-2b137904ce4b</ReferenceId><EquipmentList /></Trainer>
+<!-- Added in v1.2.4 -->
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0</ConstantA><ConstantB>1.57</ConstantB><ConstantC>0.071</ConstantC><ConstantD>-0.001</ConstantD><Model>Tech Mag 6 (Level 1)</Model><Manufacturer>Blackburn</Manufacturer><ReferenceId>ed3ab8ca-7c93-40e0-bd55-0a66c920e14f</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0</ConstantA><ConstantB>1.32</ConstantB><ConstantC>0.195</ConstantC><ConstantD>-0.0026</ConstantD><Model>Tech Mag 6 (Level 2)</Model><Manufacturer>Blackburn</Manufacturer><ReferenceId>6bcfcf7c-df7c-409e-9e97-c97654fd6f63</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0</ConstantA><ConstantB>0.93</ConstantB><ConstantC>0.363</ConstantC><ConstantD>-0.0048</ConstantD><Model>Tech Mag 6 (Level 3)</Model><Manufacturer>Blackburn</Manufacturer><ReferenceId>3009a3cb-4de5-4d7f-8319-1849d2dcaed0</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0</ConstantA><ConstantB>1.43</ConstantB><ConstantC>0.381</ConstantC><ConstantD>-0.0043</ConstantD><Model>Tech Mag 6 (Level 4)</Model><Manufacturer>Blackburn</Manufacturer><ReferenceId>ffc6f515-7df0-4c3c-aaf1-186fd62fea04</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0</ConstantA><ConstantB>-0.25</ConstantB><ConstantC>0.6</ConstantC><ConstantD>-0.0075</ConstantD><Model>Tech Mag 6 (Level 5)</Model><Manufacturer>Blackburn</Manufacturer><ReferenceId>cbd09960-745f-4c7a-bf86-49de653d3684</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>0</ConstantA><ConstantB>0.57</ConstantB><ConstantC>0.623</ConstantC><ConstantD>-0.0079</ConstantD><Model>Tech Mag 6 (Level 6)</Model><Manufacturer>Blackburn</Manufacturer><ReferenceId>4dfab3d8-3fe1-4692-a706-7b1ad9c6db32</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.297713981924428</ConstantA><ConstantB>5.98679780258727</ConstantB><ConstantC>0.077405635300372</ConstantC><ConstantD>-0.000992379939748359</ConstantD><Model>ZRO 100</Model><Manufacturer>SportCrafters</Manufacturer><ReferenceId>ed6c30e5-94d2-4440-bc50-4c00136186f8</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-1.52578415736303</ConstantA><ConstantB>5.86983873825978</ConstantB><ConstantC>0.396703880914408</ConstantC><ConstantD>-0.00508594719121036</ConstantD><Model>External Mag 5</Model><Manufacturer>SportCrafters</Manufacturer><ReferenceId>98cd413c-ad60-4571-839f-8d09c3c19392</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.0749601275918508</ConstantA><ConstantB>11.5509417483102</ConstantB><ConstantC>-0.499081795397586</ConstantC><ConstantD>0.0199723551302499</ConstantD><Model>ZRO 110 (Resistance)</Model><Manufacturer>SportCrafters</Manufacturer><ReferenceId>59311476-11d3-43a3-b428-54bfba425b88</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.817384370015944</ConstantA><ConstantB>5.98781043517886</ConstantB><ConstantC>0.327996126680337</ConstantC><ConstantD>-0.00383572567783095</ConstantD><Model>Arion Mag: 2</Model><Manufacturer>Elite</Manufacturer><ReferenceId>ed6c30e5-94d2-4440-bc50-4c00136186f8</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.520999468367819</ConstantA><ConstantB>6.60189615452772</ConstantB><ConstantC>0.135459861775652</ConstantC><ConstantD>-0.00173666489455964</ConstantD><Model>Arion Mag: 1</Model><Manufacturer>Elite</Manufacturer><ReferenceId>98cd413c-ad60-4571-839f-8d09c3c19392</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.111642743221627</ConstantA><ConstantB>6.30754917597022</ConstantB><ConstantC>0.02902711323764</ConstantC><ConstantD>-0.000372142477405643</ConstantD><Model>Arion Mag: 0</Model><Manufacturer>Elite</Manufacturer><ReferenceId>59311476-11d3-43a3-b428-54bfba425b88</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.817384370015944</ConstantA><ConstantB>5.98781043517886</ConstantB><ConstantC>0.327996126680337</ConstantC><ConstantD>-0.00383572567783095</ConstantD><Model>Arion Mag: 2</Model><Manufacturer>Elite</Manufacturer><ReferenceId>23f1e55c-9b0a-40cd-b4d6-a6faa7fed651</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.520999468367819</ConstantA><ConstantB>6.60189615452772</ConstantB><ConstantC>0.135459861775652</ConstantC><ConstantD>-0.00173666489455964</ConstantD><Model>Arion Mag: 1</Model><Manufacturer>Elite</Manufacturer><ReferenceId>0c6ac39a-b223-413e-b638-dd14503b8374</ReferenceId><EquipmentList /></Trainer>
+<Trainer><AlgoSpeedUnits>mph</AlgoSpeedUnits><ConstantA>-0.111642743221627</ConstantA><ConstantB>6.30754917597022</ConstantB><ConstantC>0.02902711323764</ConstantC><ConstantD>-0.000372142477405643</ConstantD><Model>Arion Mag: 0</Model><Manufacturer>Elite</Manufacturer><ReferenceId>933fdeb4-099f-4337-8fb0-2fc8b1532c1f</ReferenceId><EquipmentList /></Trainer>
+
+</Trainers>
+<Version>1.2.4</Version>
+</TrainerPower>
